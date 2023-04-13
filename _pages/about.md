@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-- test
+**Welcome to my homepage!**
+
+- I am now a third-year undergraduate student majoring in **Data Science and Big Data Technology** in the [School of Statistics and Management](https://ssm.sufe.edu.cn/), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/)

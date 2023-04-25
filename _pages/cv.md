@@ -32,35 +32,27 @@ PROJECT EXPERIENCE
 * Extracted image features through Uniform Pattern LBP, and built KNN model based on KD-Tree, Logistic Regression model, SVM model with Dual Optimization and ADMM solution by Python based on 10,892 images of dogs and cats, in order to perform image classification predictions and yield an optimal AUC of 0.996
 
 ### A Study on Telecom Customer Churn Prediction based on Machine Learning<span style="float:right">11/2022 - 01/2023</span>
-* 	Created Logistic model, SVM model, Adaboost model, XGBoost model, Random Forest model, and Naive Bayes model by R based on a telecom customer dataset containing 7043 data and 20 variables, in order to perform customer churn classification predictions and yield an optimal AUC of 0.849
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Created Logistic model, SVM model, Adaboost model, XGBoost model, Random Forest model, and Naive Bayes model by R based on a telecom customer dataset containing 7043 data and 20 variables, in order to perform customer churn classification predictions and yield an optimal AUC of 0.849
+* Classified data and performed WOE coding by EM algorithm, then established a Logistic model to create scorecards to  discover that the churn probability would exceed 90% when the total score of features exceeds 429; utilized IV value and Random Forest model to rank the feature importance, and evaluated the factors affecting customer churn
+* Used ggplot2 to conduct exploratory data analysis, visualize clustering results, and draw ROC curves
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Research on Identifying Malicious Comments on the Web based on Text Deep Learning<span style="float:right">11/2022 – 12/2022</span>
+* Established Simple RNN, LSTM and GRU models with GloVe word embedding based on 226,728 comments from Wikipedia, in order to identify malicious comments and the AUC of GRU could reach 0.962
+
+### Menu Recommendation System based on SQL Server and Visual Basic<span style="float:right">04/2022 – 05/2022</span>
+* Built a menu database through SQL Server and designed a front-end interface by VB, in addition to connecting the ports through ADO.NET database and applying DataSet-based data to query and update to achieve functions such as user registration and login, as well as for menu review, uploading, rating, and commenting
+* Used SQL to create tables and views, and designed triggers to achieve dynamic integrity control of the database
+
+### Research on the Current Development of Rental Communities and Public Preference for Renting in Shanghai<span style="float:right">01/2022 – 05/2022</span>
+**National Third Prize in Market Research and Analysis Competition**
+* Explored housing rental policies, analyzing the keywords and sentiment of housing rental-related online comments by text mining
+* Constructed the index system and designed the questionnaire through related literature, built a logistic regression model to analyze the characteristics of customer portraits in rental communities, mined potential customers through Categorical Principal Component Analysis, classified public preferences through K- Means clustering and established a Random Forest model to examine the effect of demographic variables in influencing preferences based on 650 questionnaires. Compiling a 50,000-word report with team members
   
-Talks
+SKILLS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Python, R, SQL, Spark, C++, Matlab, SPSS, VB, Microsoft Office
   
-Teaching
+EXTRACURRICULAR ACTIVITIES
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **President** for SUFE Innovation and Entrepreneurship Center<span style="float:right">06/2022 – Present</span>
+* **Vice President** for SUFE Statistical Research Society<span style="float:right">05/2021 – 05/2022</span>

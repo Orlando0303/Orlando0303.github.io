@@ -17,7 +17,7 @@ EDUCATION
 INTERNSHIP EXPERIENCE
 ======
 ### Beforteen Co.<span style="float:right">01/2023 – 02/2023</span>
-**Data Analysis Intern, Algorithm Group **
+**Data Analysis Intern, Algorithm Group**
 * Built the data chain of Beforteen and investigated the Volcano Engine Finder, utilizing analytical tools including event analysis, retention analysis, conversion analysis, path analysis, attribution analysis, user analysis, and LTV analysis to generate a 6,000-word report
 * Evaluated the needs of Operation and Product Departments, designing the user-side and the doctor-side of the official applet, and developing a complete index system to improve analysis efficiency
 
@@ -30,6 +30,9 @@ PROJECT EXPERIENCE
 ======
 ### Research on the Classification Model of Dog and Cat Pictures Based on Machine Learning<span style="float:right">12/2022 - 01/2023</span>
 * Extracted image features through Uniform Pattern LBP, and built KNN model based on KD-Tree, Logistic Regression model, SVM model with Dual Optimization and ADMM solution by Python based on 10,892 images of dogs and cats, in order to perform image classification predictions and yield an optimal AUC of 0.996
+
+### A Study on Telecom Customer Churn Prediction based on Machine Learning<span style="float:right">11/2022 - 01/2023</span>
+* 	Created Logistic model, SVM model, Adaboost model, XGBoost model, Random Forest model, and Naive Bayes model by R based on a telecom customer dataset containing 7043 data and 20 variables, in order to perform customer churn classification predictions and yield an optimal AUC of 0.849
   
 Skills
 ======

@@ -11,7 +11,8 @@ redirect_from:
 
 EDUCATION
 ======
-* B.S. in Data Science and Big Data Technology, School of Statistics, Shanghai University of Finance and Economics <p align="right">Expected, 07/2024</p>
+### <p style="text-align:left;"><b>Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span></b></p>
+
 
 INTERNSHIP EXPERIENCE
 ======

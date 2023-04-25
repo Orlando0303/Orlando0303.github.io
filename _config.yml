@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "谢嘉薪的主页"
+title                    : "Orlando's homepage"
 title_separator          : "-"
 name                     : &name "Jiaxin Xie"
 description              : &description "personal description"

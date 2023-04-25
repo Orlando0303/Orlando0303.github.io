@@ -11,8 +11,8 @@ redirect_from:
 
 EDUCATION
 ======
-### <p style="text-align:left;"><b>Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span></b></p>
-
+### Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span>
+**Major courses:** Financial Modeling, Machine Learning, Data Analysis and Visualization, Data Structures, Databases, Text Mining, Introduction to Data Sciense
 
 INTERNSHIP EXPERIENCE
 ======

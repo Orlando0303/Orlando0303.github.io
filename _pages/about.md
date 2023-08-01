@@ -11,7 +11,8 @@ redirect_from:
 **Welcome to my homepage!**
 
 * I am now a third-year undergraduate student majoring in **Data Science and Big Data Technology** in the [School of Statistics and Management](https://ssm.sufe.edu.cn/), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/).
-* Advancing Python, Trying NLP, Kaggle, Leetcode...
+* Interning at China Analytics Center, eBay. Hope to find an algorithm internship in the future.
+* Trying NLP, Kaggle, Leetcode... There's nothing wrong with trying more, right?
 * **Some projects** 
   * [Research on the Classification Model of Dog and Cat Pictures Based on Machine Learning](https://github.com/Orlando0303/DS2022/tree/main/Final)(12/2022 - 01/2023)
   * [A Study on Telecom Customer Churn Prediction based on Machine Learning](https://github.com/Orlando0303/ML2022/tree/main/Final)(11/2022 – 01/2023)

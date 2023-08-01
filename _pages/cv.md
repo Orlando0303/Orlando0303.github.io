@@ -12,10 +12,17 @@ redirect_from:
 EDUCATION
 ======
 ### Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span>
-**Major courses:** Financial Modeling, Machine Learning, Data Analysis and Visualization, Data Structures, Databases, Text Mining, Introduction to Data Sciense
+**Major courses:** Distributed Computing, Financial Modeling, Python Programming Language, Machine Learning, Data Analysis and Visualization, Data Structures, Databases, Text Mining, Introduction to Data Sciense
+
+SKILLS
+======
+* Python, R, SQL, PySpark, C++, SPSS, VB, Microsoft Office
 
 INTERNSHIP EXPERIENCE
 ======
+### eBay<span style="float:right">07/2023 – Present</span>
+**Business Analysis Intern, China Analytics Center**
+
 ### Beforteen Co.<span style="float:right">01/2023 – 02/2023</span>
 **Data Analysis Intern, Algorithm Group**
 * Built the data chain of Beforteen and investigated the Volcano Engine Finder, utilizing analytical tools including event analysis, retention analysis, conversion analysis, path analysis, attribution analysis, user analysis, and LTV analysis to generate a 6,000-word report
@@ -30,6 +37,7 @@ PROJECT EXPERIENCE
 ======
 ### Research on the Classification Model of Dog and Cat Pictures Based on Machine Learning<span style="float:right">12/2022 - 01/2023</span>
 * Extracted image features through Uniform Pattern LBP, and built KNN model based on KD-Tree, Logistic Regression model, SVM model with Dual Optimization and ADMM solution by Python based on 10,892 images of dogs and cats, in order to perform image classification predictions and yield an optimal AUC of 0.996
+* Realize the ResNet-18 model based on PyTorch, adjust the last Fully Connected Layer to 2 neurons to represent two categories, and achieve 100% classification prediction
 
 ### A Study on Telecom Customer Churn Prediction based on Machine Learning<span style="float:right">11/2022 - 01/2023</span>
 * Created Logistic model, SVM model, Adaboost model, XGBoost model, Random Forest model, and Naive Bayes model by R based on a telecom customer dataset containing 7043 data and 20 variables, in order to perform customer churn classification predictions and yield an optimal AUC of 0.849
@@ -48,11 +56,7 @@ PROJECT EXPERIENCE
 * Explored housing rental policies, analyzing the keywords and sentiment of housing rental-related online comments by text mining
 * Constructed the index system and designed the questionnaire through related literature, built a logistic regression model to analyze the characteristics of customer portraits in rental communities, mined potential customers through Categorical Principal Component Analysis, classified public preferences through K- Means clustering and established a Random Forest model to examine the effect of demographic variables in influencing preferences based on 650 questionnaires. Compiling a 50,000-word report with team members
   
-SKILLS
-======
-* Python, R, SQL, Spark, C++, Matlab, SPSS, VB, Microsoft Office
-  
 EXTRACURRICULAR ACTIVITIES
 ======
-* **President** for SUFE Innovation and Entrepreneurship Center<span style="float:right">06/2022 – Present</span>
+* **President** for SUFE Innovation and Entrepreneurship Center<span style="float:right">06/2022 – 05/2023</span>
 * **Vice President** for SUFE Statistical Research Society<span style="float:right">05/2021 – 05/2022</span>

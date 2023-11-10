@@ -29,7 +29,7 @@ INTERNSHIP EXPERIENCE
 * Evaluated the needs of Operation and Product Departments, designing the user-side and the doctor-side of the official applet, and developing a complete index system to improve analysis efficiency
 
 ### PwC<span style="float:right">07/2022 – 09/2022</span>
-**PTA Intern, Quantitative Finance Group**
+**PTA, Quantitative Finance Group**
 *	Built financial risk management model through Python (pandas, numpy), tracking the number of days overdue and matching with the corresponding risk level, as well as deriving the monthly migration matrix
 *	Tracked the number of days overdue and balance movement of orders per month by Python, and calculated the marginal default probability using the Markov chain, thereby applying the expected credit loss (ECL) to achieve automation in Exce
 

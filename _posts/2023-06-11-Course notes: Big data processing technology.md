@@ -1,13 +1,13 @@
 ---
-title: 'Course notes: Big data processing technology'
+title: 'Course notes: Big data'
 date: 2023-06-11
-permalink: /posts/2023/06/Course notes_Big data processing technology/
+permalink: /posts/2023/06/Course notes_Big data/
 tags:
   - Big data
   - Course notes
 ---
 
-Related courses: Distributed computing (96), big data processing technology (94)
+Related courses: Distributed Computing (96), Big Data Processing Technology (94)
 
 # HDFS
 ### HDFS基本架构

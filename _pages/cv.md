@@ -21,7 +21,7 @@ SKILLS
 INTERNSHIP EXPERIENCE
 ======
 ### eBay<span style="float:right">07/2023 – Present</span>
-**Business Analysis Intern, China Analytics Center**
+**Data Analysis Intern, China Analytics Center**
 
 ### Beforteen Co.<span style="float:right">01/2023 – 02/2023</span>
 **Data Analysis Intern, Algorithm Group**

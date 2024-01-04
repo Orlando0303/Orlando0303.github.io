@@ -1,7 +1,7 @@
 ---
 title: 'Course notes: Big data processing technology'
 date: 2023-06-11
-permalink: /posts/2023/06/Course notes: Big data processing technology/
+permalink: /posts/2023/06/Course notes_Big data processing technology/
 tags:
   - Big data
   - Course notes

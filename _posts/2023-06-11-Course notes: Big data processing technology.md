@@ -7,6 +7,8 @@ tags:
   - Course notes
 ---
 
+Related courses: Distributed computing (96), big data processing technology (94)
+
 # HDFS
 ### HDFS基本架构
 **一个HDFS文件系统包括一个主控节点NameNode和一组DataNode从节点**

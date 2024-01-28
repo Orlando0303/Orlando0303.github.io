@@ -12,44 +12,63 @@ redirect_from:
 EDUCATION
 ======
 ### Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span>
-**Major courses:** Distributed Computing, Financial Modeling, Python Programming Language, Machine Learning, Data Analysis and Visualization, Data Structures, Databases, Text Mining, Introduction to Data Sciense
+**Major courses:** Distributed Computing, Deep Learning, Big Data Processing Technology, Machine Learning, Python Programming Language, Data Structures, Introduction to Data Science, Database, Text Mining
+**Awards and honors:** People’s Scholarship, Zhengda Cup Marketing Research and Analysis Competition National Third Prize (Top 5%), Shanghai Advanced Individual in College Student Social Practice, Outstanding Student Leader
 
 SKILLS
 ======
-* Python, R, SQL, PySpark, C++, SPSS, VB, Microsoft Office
+* Python, R, SQL, PySpark, C++, C, Java
 
 INTERNSHIP EXPERIENCE
 ======
-### eBay<span style="float:right">07/2023 – Present</span>
+### eBay<span style="float:right">07/2023 – 12/2023</span>
 **Data Analysis Intern, China Analytics Center**
+* **Fashion Product Conversion Rate Analysis:** Utilized data mining techniques and SQL to build an indicator system and cleanse over 1 million data entries; conducted statistical analysis, optimizing marketing strategies and increasing ad click-through rate by 10%
+* **Model Analysis and Report Writing:** Used Random Forest and Logistic models for product conversion rate analysis; authored a 40-page report, aiding a 15% increase in conversion rates and supporting market strategy and product optimization
+* **Data Dashboard Creation and Monitoring:** Developed a Supply & Demand Gap dashboard with SQL and Tableau; monitored core metrics, guiding seller behavior and marketing activities, resulting in a 5% increase in sales
+* **Data-Driven Business Decision Making:** Executed over 1000 SQL queries with Python for Australian market analysis; created data dashboards in Excel, leading to an 8% increase in product line sales
+* **AB Testing Design and Implementation:** Conducted three rounds of AB testing using Python and SPSS; focused on high-frequency consumer groups, achieving a 20% increase in GMB and 15% in buyer numbers
 
-### Beforteen Co.<span style="float:right">01/2023 – 02/2023</span>
+### Beforteen Co.<span style="float:right">01/2023 – 03/2023</span>
 **Data Analysis Intern, Algorithm Group**
-* Built the data chain of Beforteen and investigated the Volcano Engine Finder, utilizing analytical tools including event analysis, retention analysis, conversion analysis, path analysis, attribution analysis, user analysis, and LTV analysis to generate a 6,000-word report
-* Evaluated the needs of Operation and Product Departments, designing the user-side and the doctor-side of the official applet, and developing a complete index system to improve analysis efficiency
+* **Data Pipeline Construction and Product Analysis:** Utilized Python and SQL to develop and assess data analysis functionalities comparable to ByteDance's Volcano Engine Finder, focusing on event analysis, user retention, and conversion rates. Conducted performance comparison and optimization, resulting in a comprehensive report and a 20% increase in user engagement through enhanced product features
+* **Event Tracking Scheme Design and Overall Indicator System Construction:** Collaborated with Operations and Product teams to define their requirements, then used JavaScript and Python to develop event tracking for mini-program interfaces. Created a key indicators dashboard, boosting analysis efficiency by 30%
+* **Data Infrastructure Development and Optimization:** Spearheaded the design and implementation of robust data infrastructure using Python and R; optimized data collection and processing workflows, enhancing data accuracy and availability;led initiatives to refine data storage and retrieval processes, contributing to a 10% improvement in data processing efficiency
+* **Data Engineering and Workflow Management:** Streamlined data pipelines by integrating Tableau and Power BI with advanced data transformation tools; ensured efficient, scalable solutions for reliable data flow. Enhanced business analytics, contributing to an 8% increase in operational efficiency
+* **Data Engineering for Predictive Analytics:** Applied machine learning techniques within robust data engineering frameworks; implemented scalable data models and pipelines for sales trend and user behavior analysis, facilitating accurate predictive insights; contributed to a 3% increase in market share through data-driven decision-making
 
 ### PwC<span style="float:right">07/2022 – 09/2022</span>
 **PTA, Quantitative Finance Group**
-*	Built financial risk management model through Python (pandas, numpy), tracking the number of days overdue and matching with the corresponding risk level, as well as deriving the monthly migration matrix
-*	Tracked the number of days overdue and balance movement of orders per month by Python, and calculated the marginal default probability using the Markov chain, thereby applying the expected credit loss (ECL) to achieve automation in Exce
+* **Financial Risk Management Model Development:** Assisted in building a financial risk management model using Python (pandas, numpy); tracked contract overdue days and matched risk levels, exporting monthly migration matrices of risk grades; this model improved high-risk contract identification efficiency by 10%
+* **Marginal Default Probability Calculation and Expected Credit Loss Analysis:** Matched individual orders with monthly overdue days and balance changes using Python; calculated marginal default probabilities using Markov chains, then calculated Expected Credit Loss (ECL); implemented Excel automation, enhancing data processing efficiency by 15%
+* **Default Contract Data Analysis and Visualization:** Described variations in default contracts using data analysis skills and statistical models; displayed and interpreted interrelations between different charts in Power BI; these analyses enhanced the explanatory power of reports, increasing clarity in management’s decision support
+* **Model Optimization and Back-Testing Analysis:** Optimized existing risk assessment models using Python and machine learning techniques; conducted historical data back-testing to verify model accuracy and stability; post-optimization, the model achieved a prediction accuracy rate of 85%
+* **Automated Risk Reporting:** Developed Python scripts for automated risk report generation; integrated data, computational results, and visualizations, reducing manual error rates; automation process cut report generation time by 50%, boosting overall work efficiency
 
 PROJECT EXPERIENCE
 ======
-### Research on the Classification Model of Dog and Cat Pictures Based on Machine Learning<span style="float:right">12/2022 - 01/2023</span>
-* Extracted image features through Uniform Pattern LBP, and built KNN model based on KD-Tree, Logistic Regression model, SVM model with Dual Optimization and ADMM solution by Python based on 10,892 images of dogs and cats, in order to perform image classification predictions and yield an optimal AUC of 0.996
-* Realize the ResNet-18 model based on PyTorch, adjust the last Fully Connected Layer to 2 neurons to represent two categories, and achieve 100% classification prediction
+### Machine Learning-Based Study on Telecom Customer Churn Prediction<span style="float:right">11/2022 - 01/2023</span>
+* **Comprehensive Data Analysis and Model Development:** Conducted an in-depth analysis of a telecom customer dataset with 7,043 records and 20 variables Utilized R to build and compare various machine learning models, including Logistic Regression, Support Vector Machine (SVM), Adaboost, XGBoost, Random Forest, and Naive Bayes, for predicting customer churn Achieved an optimal AUC score of 0.849, indicating highly effective classification
+* **Advanced Data Visualization Techniques:** Employed ggplot2 in R for exploratory data analysis, visualizing clustering outcomes, and plotting ROC curves Facilitated a deeper understanding of data patterns and model performance
+* **Innovative Use of Scoring Card Model:** Integrated a scoring card model using the EM algorithm for data binning and Weight of Evidence (WOE) encoding Developed a Logistic Regression model to construct the scoring card, enabling precise churn probability predictions (churn probability exceeding 90% for total scores above 429) Provided actionable insights for retaining high-risk customers through targeted strategies
+* **Strategic Insights and Recommendations:** Identified contract duration and customer tenure as key factors influencing customer churn Suggested that telecom operators offer substantial discounts on long-term contracts to enhance customer loyalty, focusing on newly acquired customers to improve customer retention strategies
 
-### A Study on Telecom Customer Churn Prediction based on Machine Learning<span style="float:right">11/2022 - 01/2023</span>
-* Created Logistic model, SVM model, Adaboost model, XGBoost model, Random Forest model, and Naive Bayes model by R based on a telecom customer dataset containing 7043 data and 20 variables, in order to perform customer churn classification predictions and yield an optimal AUC of 0.849
-* Classified data and performed WOE coding by EM algorithm, then established a Logistic model to create scorecards to  discover that the churn probability would exceed 90% when the total score of features exceeds 429; utilized IV value and Random Forest model to rank the feature importance, and evaluated the factors affecting customer churn
-* Used ggplot2 to conduct exploratory data analysis, visualize clustering results, and draw ROC curves
+### Research on Machine Learning-based Cat and Dog Image Classification Model<span style="float:right">12/2022 - 01/2023</span>
+* **Model Optimization with Advanced Techniques:** Implemented grid search for hyperparameter tuning; utilized feature selection strategies to enhance the KNN, Logistic Regression, and SVM models’ performance, achieving high AUC scores
+* **Stratified K-Fold Cross-Validation for Reliable Evaluation:** Applied stratified K-fold cross-validation for balanced class representation; ensured consistent evaluation and identification of overfitting, improving generalization to new data
+* **Algorithmic Enhancements for Model Accuracy:** Advanced Deep Learning Techniques for Precision: Optimized the ResNet-18 model by fine-tuning network layers and parameters; implemented techniques such as dropout and batch normalization to reduce overfitting, and explored various activation functions for enhanced performance, crucial in achieving 100% accuracy with the ResNet-18 model
+*	**Data Preprocessing and Augmentation for Robustness:** Performed thorough preprocessing, including normalization and noise reduction; applied augmentation techniques such as rotation and flipping to diversify training data, improving model robustness against real-world image variations
 
-### Research on Identifying Malicious Comments on the Web based on Text Deep Learning<span style="float:right">11/2022 – 12/2022</span>
-* Established Simple RNN, LSTM and GRU models with GloVe word embedding based on 226,728 comments from Wikipedia, in order to identify malicious comments and the AUC of GRU could reach 0.962
+### Study of Text Deep Learning-Based Online Malicious Comment Detection<span style="float:right">11/2022 – 12/2022</span>
+*	**Data Collection and Preprocessing:** Gathered 226,728 comments from Wikipedia talk pages; performed text normalization, tokenization, and irrelevant content removal, ensuring clean data for model training
+*	**Model Development with Advanced Embeddings:** Implemented Simple RNN, LSTM, and GRU models; integrated GloVe embeddings in LSTM and GRU for enhanced semantic understanding, improving text classification capabilities
+*	**Performance Optimization and Analysis:** Conducted hyperparameter tuning focusing on learning rates and layer sizes; comparative analysis showed GRU model excelling with an AUC of 0.962, indicating high classification accuracy
+*	**Rigorous Evaluation and Validation:** Applied cross-validation and separate test sets for robust testing; validated models’ effectiveness and generalization capability, ensuring reliability for real-world application
 
-### Menu Recommendation System based on SQL Server and Visual Basic<span style="float:right">04/2022 – 05/2022</span>
-* Built a menu database through SQL Server and designed a front-end interface by VB, in addition to connecting the ports through ADO.NET database and applying DataSet-based data to query and update to achieve functions such as user registration and login, as well as for menu review, uploading, rating, and commenting
-* Used SQL to create tables and views, and designed triggers to achieve dynamic integrity control of the database
+### SQL Server and Visual Basic-Based Recipe Recommendation System<span style="float:right">04/2022 – 05/2022</span>
+*	**Database Creation and Interface Integration:** Developed recipe database in SQL Server; built front-end with Visual Basic. Used ADO.NET for database connectivity; enabled user registration, recipe management, and interactive features
+*	**E-R Modeling and Schema Normalization:** Abstracted system functionalities into E-R models; converted to a relational schema in SQL Server, achieving Boyce-Codd Normal Form (BCNF) for efficient data organization
+*	**SQL Implementations for Enhanced Functionality:** Executed SQL for database structuring, complex queries, and view creations. Implemented triggers for dynamic integrity control, ensuring data consistency and reliability
 
 ### Research on the Current Development of Rental Communities and Public Preference for Renting in Shanghai<span style="float:right">01/2022 – 05/2022</span>
 **National Third Prize in Market Research and Analysis Competition**

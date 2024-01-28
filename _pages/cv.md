@@ -11,8 +11,8 @@ redirect_from:
 
 EDUCATION
 ======
-### Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S.<span style="float:right;">Expected, 07/2024</span>
-**Major courses:** Distributed Computing, Deep Learning, Big Data Processing Technology, Machine Learning, Python Programming Language, Data Structures, Introduction to Data Science, Database, Text Mining
+### Shanghai University of Finance and Economics | Data Science and Big Data Technology | B.S. <span style="float:right;">Expected, 07/2024</span>
+**Major courses:** Distributed Computing, Deep Learning, Big Data Processing Technology, Machine Learning, Python Programming Language, Data Structures, Introduction to Data Science, Database, Text Mining  
 **Awards and honors:** People’s Scholarship, Zhengda Cup Marketing Research and Analysis Competition National Third Prize (Top 5%), Shanghai Advanced Individual in College Student Social Practice, Outstanding Student Leader
 
 SKILLS
@@ -21,7 +21,7 @@ SKILLS
 
 INTERNSHIP EXPERIENCE
 ======
-### eBay<span style="float:right">07/2023 – 12/2023</span>
+### eBay <span style="float:right">07/2023 – 12/2023</span>
 **Data Analysis Intern, China Analytics Center**
 * **Fashion Product Conversion Rate Analysis:** Utilized data mining techniques and SQL to build an indicator system and cleanse over 1 million data entries; conducted statistical analysis, optimizing marketing strategies and increasing ad click-through rate by 10%
 * **Model Analysis and Report Writing:** Used Random Forest and Logistic models for product conversion rate analysis; authored a 40-page report, aiding a 15% increase in conversion rates and supporting market strategy and product optimization
